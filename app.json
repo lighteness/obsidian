@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "appendix",
+  "foldIndent": false,
+  "readableLineLength": false
+}
