@@ -90,9 +90,10 @@
   "app:open-vault": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
-      "key": "V"
+      "key": "O"
     }
   ]
 }
