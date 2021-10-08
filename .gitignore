@@ -9,3 +9,4 @@ workspace
 !core-plugins.json
 !app.json
 !.gitignore
+!snippets/*.css
