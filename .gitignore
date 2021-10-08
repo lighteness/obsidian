@@ -1,0 +1,11 @@
+plugins/
+workspace
+# Blacklist all files...
+*.*
+
+# ...except the ones we want
+!hotkeys.json
+!community-plugins.json
+!core-plugins.json
+!app.json
+!.gitignore
