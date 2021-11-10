@@ -9,5 +9,10 @@
   "obsidian-excalidraw-plugin",
   "oz-image-plugin",
   "obsidian-plugin-toc",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-plantuml",
+  "quickadd",
+  "templater-obsidian",
+  "obsidian-zoom",
+  "dataview"
 ]

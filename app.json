@@ -3,8 +3,9 @@
   "foldHeading": true,
   "showLineNumber": false,
   "defaultViewMode": "preview",
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "attachmentFolderPath": "appendix",
-  "foldIndent": false,
-  "readableLineLength": false
+  "foldIndent": true,
+  "readableLineLength": false,
+  "showFrontmatter": true
 }
